@@ -34,7 +34,7 @@ spec:
 
       - name: nexus-jenkins-integration
 
-        image: nexus-jenkins-integration
+        image: kubernetesdevops/nexus-demo
 
         ports:
 
